@@ -3,6 +3,7 @@ MATLAB function that runs the fMRI Area Profile correlation analysis reported in
 
 Run AreaProfileCorr.m to run demo.
 A demo dataset is included to illustrate the analysis. 
+Output can be viewed as overlay in AFNI with anatomical.nii as underlay.
 
 The AFNI MATLAB toolbox is needed to write out the data into BRIK format:
 https://afni.nimh.nih.gov/
